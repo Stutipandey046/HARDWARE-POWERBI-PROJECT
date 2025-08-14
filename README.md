@@ -87,7 +87,7 @@ A Power BI project that analyzes hardware sales data to uncover trends, regional
 -  **Trend Chart** shows a consistent gap between forecast accuracy and actual sales over time.
     Focus Area: Improve demand forecasting and inventory alignment to reduce overstocking and enhance profitability.
 
-##conclusion
+
 ##  Conclusion
 
 This Power BI dashboard provides a comprehensive end-to-end analysis of hardware product sales, financial performance, and supply chain efficiency across regions, customers, and product segments.
